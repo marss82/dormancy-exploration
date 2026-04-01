@@ -8,8 +8,9 @@ Insights and recommendation are provided on the folowing areas:
 -   Where the largest **share of balance** is concentrated among dormant accounts
 -   What **behavioral signals** (e.g. transaction activity) indicate inactivity
 
-An interactive PowerBI dashboard can be downloaded there
-The Excel data and pivot tables can be found there
+An interactive PowerBI dashboard can be downloaded [there](https://github.com/marss82/dormancy-exploration/blob/4773c6f0dedb19df3ecd90bb0124d26b0448e9ea/visualisation.pbit)
+
+The Excel data and pivot tables can be found [there](https://github.com/marss82/dormancy-exploration/blob/4773c6f0dedb19df3ecd90bb0124d26b0448e9ea/synthetic_dirty_bank_clients.xlsx)
 
 # Data Structure & Initial Checks / Methology
 we have table with 12000 records of 
